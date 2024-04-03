@@ -1,0 +1,1 @@
+adobe_client_secret=98237912837409
